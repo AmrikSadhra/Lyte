@@ -12,4 +12,4 @@ A sand simulation running a P5 64 x 32 LED Matrix from a Spartan 6 FPGA. Heavily
 
 ### Current Status
 
-![Screenshot](../master/doc/progress.png)
+![Screenshot](../master/doc/progress.jpeg)
