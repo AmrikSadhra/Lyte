@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "F:/ISE Projects/LEDMatrix/MatrixDriverTB_isim_beh.exe" -prj "F:/ISE Projects/LEDMatrix/MatrixDriverTB_beh.prj" "work.MatrixDriverTB" 

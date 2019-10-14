@@ -1,0 +1,8 @@
+Storage Target: SPI Flash Single FPGA
+4M
+FF
+led_water
+D:\lab\led_water
+
+MCS
+No
